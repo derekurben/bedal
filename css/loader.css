@@ -24,7 +24,7 @@
   height: 0;
   width: 0;
   box-sizing: border-box;
-  border: 0 solid #0688A9;
+  border: 0 solid #7db7e4;
   border-radius: 50%;
   -webkit-animation: loader-figure 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
   -moz-animation: loader-figure 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
@@ -38,7 +38,7 @@
   left: 50%;
   right: 50%;
   width:140px;
-  color: #0688A9;
+  color: #7db7e4;
   -webkit-animation: loader-label 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
   -moz-animation: loader-label 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
   animation: loader-label 1.15s infinite cubic-bezier(0.215, 0.61, 0.355, 1);

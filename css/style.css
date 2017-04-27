@@ -240,7 +240,7 @@ a, a:focus{
 a:hover{
 	outline:none;
 	text-decoration:underline;
-	color:white;
+	color:cadetblue;
 }
 input{
 	background:inherit;

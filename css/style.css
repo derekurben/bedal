@@ -1335,10 +1335,10 @@ ul.widget_links li a:hover, ul.widget_links li a:focus, ul.widget_links li.activ
 /* ================================================= Inner Pages ================================================== */
 /* =================================== ABout Us =================================== */
 #page_header{
-	background:url(../images/page-header.jpg) no-repeat;
+	background:url(../images/page-header.jpg) repeat;
 	width:100%;
 	position:relative;
-	min-height:270px;
+	min-height:400px;
 	background-size:cover;
 	background-position:center center;
 }

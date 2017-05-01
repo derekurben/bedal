@@ -1338,7 +1338,7 @@ ul.widget_links li a:hover, ul.widget_links li a:focus, ul.widget_links li.activ
 	background:url(../images/page-header.jpg) repeat;
 	width:100%;
 	position:relative;
-	min-height:400px;
+	min-height:300px;
 	background-size:cover;
 	background-position:center center;
 }

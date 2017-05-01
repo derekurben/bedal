@@ -115,7 +115,10 @@
 
 /**----- Fonts ----**/
 
-
+iframe[src*=youtube] {
+    width: 600px;
+    height: 375px;
+}
 
 @font-face {
     font-family: 'ralewaylight';

@@ -133,10 +133,10 @@ jQuery(function($) {'use strict';
 	
     //Fading Testinomial content
     $("#testinomial-slider").owlCarousel({
-      autoPlay: 3000,
+      autoPlay: 1000000,
       navigation : false, // Show next and prev buttons
-      slideSpeed : 300,
-      paginationSpeed : 400,
+      slideSpeed : 3000,
+      paginationSpeed : 3000,
       singleItem:true,
 		transitionStyle : "fade"
   });
